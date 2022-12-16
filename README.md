@@ -39,8 +39,8 @@ ___
 ___
 Table of Content
 
-* [Customer Experience Analysis Project.ipynb](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Customer%20Experience%20Analysis%20Project.ipynb)
-* [Customer Experience Analysis Project.html](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Customer%20Experience%20Analysis%20Project.html)
-* [Customer Experience Analysis Dashboard.pdf](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Customer%20Experience%20Analysis%20Dashboard.pdf)
+* [Main File.ipynb](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Customer%20Experience%20Analysis%20Project.ipynb)
+* [Main File.html](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Customer%20Experience%20Analysis%20Project.html)
+* [Dassddps://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Customer%20Experience%20Analysis%20Dashboard.pdf)
 ___
 All files are my original work; sharing is not permitted.
