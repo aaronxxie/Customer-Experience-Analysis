@@ -1,4 +1,4 @@
-# Customer Rating Analysis based on Shipping Dataset
+# Customer Experience Analysis based on a Shipping Dataset
 ### Data Analytics Project (Python, Power BI)
 Aaron Xie
 ___
@@ -32,8 +32,12 @@ Customer experience:
 This project uses a fictional dataset from Kaggle; check out the website to see its documentation.
 https://www.kaggle.com/datasets/prachi13/customer-analytics
 ___
-### See the notebook or html for the complete project
+### See the html or the notebook for the complete project
 ___
 Table of Content
 
-* Customer Experience Analysis on Shipping Project.
+* Customer Experience Analysis Project.ipynb
+* Customer Experience Analysis Project.html
+* Customer Experience Analysis Dashboard.pdf
+___
+All files are my original work; sharing is not permitted.
