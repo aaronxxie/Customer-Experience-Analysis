@@ -28,9 +28,12 @@ Customer experience:
 * Find the drawbacks that the business can improve to increase customer ratings.
 * Make strategies to overcome these drawbacks and raise the customer ratings by 20%
 
-### Data Collection/Preparation
+### The Data Set
 This project uses a fictional dataset from Kaggle; check out the website to see its documentation.
 https://www.kaggle.com/datasets/prachi13/customer-analytics
+
+### Dashboards
+
 ___
 ### See the following html or the notebook for the complete project
 ___
