@@ -3,7 +3,7 @@
 Aaron Xie
 ___
 ## The Problem
-Customer rating is a crucial metric to show how satisfied customers are with a business. Therefore, this project examinates the relationship between customer rating and the shipping features. What are the potential drawbacks of low customer ratings?
+Customer rating is a crucial metric to show how satisfied customers are with a business. Therefore, this project examinates the relationship between customer rating and the shipping features. What are the potential drawbacks of the low customer ratings?
 
 ### The Questions
 Shipping performance:
@@ -40,8 +40,8 @@ ___
 ___
 Table of Content
 
-* [Main File.ipynb](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Main%20Project.ipynb)
-* [Main File.html](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Main%20Project.html)
+* [Main File.ipynb](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Main%20Project.ipynb) Main project file
+* [Main File.html](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Main%20Project.html) Same as the .ipynb file
 * [Dashboard 1.jpg](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%201.jpg)
 * [Dashboard 2.jpg](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%202.jpg)
 ___
