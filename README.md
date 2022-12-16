@@ -32,12 +32,12 @@ Customer experience:
 This project uses a fictional dataset from Kaggle; check out the website to see its documentation.
 https://www.kaggle.com/datasets/prachi13/customer-analytics
 ___
-### See the html or the notebook for the complete project
+### See the following html or the notebook for the complete project
 ___
 Table of Content
 
-* Customer Experience Analysis Project.ipynb
-* Customer Experience Analysis Project.html
-* Customer Experience Analysis Dashboard.pdf
+* [Customer Experience Analysis Project.ipynb](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Customer%20Experience%20Analysis%20Project.ipynb)
+* [Customer Experience Analysis Project.html](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Customer%20Experience%20Analysis%20Project.html)
+* [Customer Experience Analysis Dashboard.pdf](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Customer%20Experience%20Analysis%20Dashboard.pdf)
 ___
 All files are my original work; sharing is not permitted.
