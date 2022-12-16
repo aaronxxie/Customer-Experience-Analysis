@@ -33,7 +33,8 @@ This project uses a fictional dataset from Kaggle; check out the website to see 
 https://www.kaggle.com/datasets/prachi13/customer-analytics
 
 ### Dashboards
-
+![Dashboard 1](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%201.jpg)
+![Dashboard 2](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%202.jpg)
 ___
 ### See the following html or the notebook for the complete project
 ___
