@@ -2,10 +2,10 @@
 ### Data Analytics Project (Python, Power BI)
 Aaron Xie
 ___
-### The Problem
+## The Problem
 Customer rating is a crucial metric to show how satisfied customers are with a business. Therefore, this project examinates the relationship between customer rating and the shipping features. What are the potential drawbacks of low customer ratings?
 
-#### The Questions
+### The Questions
 Shipping performance:
 * What are the total cost and shipping amount?
 * Which block/department has the highest shipping amount?
@@ -24,15 +24,15 @@ Customer experience:
 * Does high prior purchases mean good experience(good ratings)?
 
 
-#### The Goal
+### The Goal
 * Find the drawbacks that the business can improve to increase customer ratings.
 * Make strategies to overcome these drawbacks and raise the customer ratings by 20%
 
-### The Data Set
+## The Data Set
 This project uses a fictional dataset from Kaggle; check out the website to see its documentation.
 https://www.kaggle.com/datasets/prachi13/customer-analytics
 
-### Dashboards
+## Dashboards
 ![Dashboard 1](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%201.jpg)
 ![Dashboard 2](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%202.jpg)
 ___
