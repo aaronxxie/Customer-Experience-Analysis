@@ -5,14 +5,35 @@ ___
 ### The Problem
 Customer rating is a crucial metric to show how satisfied customers are with a business. Therefore, this project examinates the relationship between customer rating and the shipping features. What are the potential drawbacks of low customer ratings?
 
-### The Goal
+#### The Questions
+Shipping performance:
+* What are the total cost and shipping amount?
+* Which block/department has the highest shipping amount?
+* What is the most preferred ship mode?
+* Are the products gender neutral?
+* How much does the products usually cost?
+* How does the business offer discount based on cost?
+
+Customer experience:
+* What are the average customer ratings?
+* Which customer feature is related to customer ratings?
+* Does the on time rate matter to customer ratings?
+* Can increasing discount offered raise customer ratings?
+* How many customers care calls does the business usually receive?
+* Does more care call mean bad experience(bad ratings)?
+* Does high prior purchases mean good experience(good ratings)?
+
+
+#### The Goal
 * Find the drawbacks that the business can improve to increase customer ratings.
 * Make strategies to overcome these drawbacks and raise the customer ratings by 20%
 
 ### Data Collection/Preparation
 This project uses a fictional dataset from Kaggle; check out the website to see its documentation.
 https://www.kaggle.com/datasets/prachi13/customer-analytics
+___
+### See the notebook or html for the complete project
+___
+Table of Content
 
-### The Questions
-1. 
-
+* Customer Experience Analysis on Shipping Project.
