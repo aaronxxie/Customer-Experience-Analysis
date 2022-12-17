@@ -2,10 +2,10 @@
 ### Data Analytics Project (Python, Power BI)
 Aaron Xie
 ___
-### The Problem
-Customer rating is a crucial metric to show how satisfied customers are with a business. Therefore, this project examinates the relationship between customer rating and the shipping features. What are the potential drawbacks of low customer ratings?
+## The Problem
+Customer rating is a crucial metric to show how satisfied customers are with a business. Therefore, this project examinates the relationship between customer rating and the shipping features. What are the potential drawbacks of the low customer ratings?
 
-#### The Questions
+### The Questions
 Shipping performance:
 * What are the total cost and shipping amount?
 * Which block/department has the highest shipping amount?
@@ -24,23 +24,25 @@ Customer experience:
 * Does high prior purchases mean good experience(good ratings)?
 
 
-#### The Goal
+### The Goal
 * Find the drawbacks that the business can improve to increase customer ratings.
 * Make strategies to overcome these drawbacks and raise the customer ratings by 20%
 
-### The Data Set
+## The Data Set
 This project uses a fictional dataset from Kaggle; check out the website to see its documentation.
 https://www.kaggle.com/datasets/prachi13/customer-analytics
 
-### Dashboards
-
+## Dashboards
+![Dashboard 1](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%201.jpg)
+![Dashboard 2](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%202.jpg)
 ___
 ### See the following html or the notebook for the complete project
 ___
 Table of Content
 
-* [Customer Experience Analysis Project.ipynb](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Customer%20Experience%20Analysis%20Project.ipynb)
-* [Customer Experience Analysis Project.html](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Customer%20Experience%20Analysis%20Project.html)
-* [Customer Experience Analysis Dashboard.pdf](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Customer%20Experience%20Analysis%20Dashboard.pdf)
+* [Main File.ipynb](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Main%20Project.ipynb) Main project file
+* [Main File.html](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Main%20Project.html) Same as the .ipynb file
+* [Dashboard 1.jpg](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%201.jpg)
+* [Dashboard 2.jpg](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%202.jpg)
 ___
 All files are my original work; sharing is not permitted.
