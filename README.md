@@ -40,8 +40,8 @@ ___
 ___
 Table of Content
 
-* [Main File.ipynb](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Main%20Project.ipynb) Main project file
-* [Main File.html](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Main%20Project.html) Same as the .ipynb file
+* [Main Project File.ipynb](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Main%20Project%20File.ipynb) Main project file
+* [Main Project File.html](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Main%20Project%20File.html) Same as the .ipynb file
 * [Dashboard 1.jpg](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%201.jpg)
 * [Dashboard 2.jpg](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%202.jpg)
 ___
