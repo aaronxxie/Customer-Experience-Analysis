@@ -38,7 +38,7 @@ https://www.kaggle.com/datasets/prachi13/customer-analytics
 ___
 ### See the following html or the notebook for the complete project
 ___
-Table of Content
+# Files
 
 * [Main Project File.ipynb](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Main%20Project%20File.ipynb) Main project file
 * [Main Project File.html](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Main%20Project%20File.html) Same as the .ipynb file
