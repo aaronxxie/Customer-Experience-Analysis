@@ -41,23 +41,23 @@ ___
 * [Dashboard 2.jpg](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%202.jpg)
 ___
 # Table of Contents
-* [The Problem](#problem)
-    * [The Qestions](#question)
-    * [The Goal](#goal)
-* [Data Preparation](#preparation)
-* [Data Processing](#processing)
-    * [Dataset Basic Info](#info)
-* [Data Analysis](#analysis)
-    * [Understanding Variables](#variable)
-        * [Categorical Variables](#categorical)
-        * [Numeric Variables](#numeric)
-    * [Understanding Relationships](#relationship)
-        * [Target and Numeric](#target-numeric)
-        * [Target and Categorical](#target-categorical)
-* [Data Sharing](#sharing)
-    * [Dashboard 1](#dashboard1)
-    * [Dashboard 2](#dashboard2)
-* [Action Suggestions](#act)
+* The Problem
+    * The Qestions
+    * The Goal
+* Data Preparation
+* Data Processing
+    * Dataset Basic Info
+* Data Analysis
+    * Understanding Variables
+        * Categorical Variables
+        * Numeric Variables
+    * Understanding Relationships
+        * Target and Numeric
+        * Target and Categorical
+* Data Sharing
+    * Dashboard 1
+    * Dashboard 2
+* Action Suggestions
 ___
 # Dashboards
 ![Dashboard 1](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%201.jpg)
