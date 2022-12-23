@@ -2,10 +2,10 @@
 ### Data Analytics Project (Python, Power BI)
 Aaron Xie
 ___
-## The Problem
+# The Problem
 Customer rating is a crucial metric to show how satisfied customers are with a business. Therefore, this project examinates the relationship between customer rating and the shipping features. What are the potential drawbacks of the low customer ratings?
 
-### The Questions
+## The Questions
 Shipping performance:
 * What are the total cost and shipping amount?
 * Which block/department has the highest shipping amount?
@@ -23,18 +23,13 @@ Customer experience:
 * Does more care call mean bad experience(bad ratings)?
 * Does high prior purchases mean good experience(good ratings)?
 
-
-### The Goal
+## The Goal
 * Find the drawbacks that the business can improve to increase customer ratings.
 * Make strategies to overcome these drawbacks and raise the customer ratings by 20%
-
-## The Data Set
+___
+# The Data Set
 This project uses a fictional dataset from Kaggle; check out the website to see its documentation.
 https://www.kaggle.com/datasets/prachi13/customer-analytics
-
-## Dashboards
-![Dashboard 1](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%201.jpg)
-![Dashboard 2](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%202.jpg)
 ___
 ### See the following html or the notebook for the complete project
 ___
@@ -44,5 +39,28 @@ ___
 * [Main Project File.html](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Main%20Project%20File.html) Same as the .ipynb file
 * [Dashboard 1.jpg](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%201.jpg)
 * [Dashboard 2.jpg](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%202.jpg)
+___
+# Table of Contents
+* [The Problem](#problem)
+    * [The Qestions](#question)
+    * [The Goal](#goal)
+* [Data Preparation](#preparation)
+* [Data Processing](#processing)
+    * [Dataset Basic Info](#info)
+* [Data Analysis](#analysis)
+    * [Understanding Variables](#variable)
+        * [Categorical Variables](#categorical)
+        * [Numeric Variables](#numeric)
+    * [Understanding Relationships](#relationship)
+        * [Target and Numeric](#target-numeric)
+        * [Target and Categorical](#target-categorical)
+* [Data Sharing](#sharing)
+    * [Dashboard 1](#dashboard1)
+    * [Dashboard 2](#dashboard2)
+* [Action Suggestions](#act)
+___
+# Dashboards
+![Dashboard 1](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%201.jpg)
+![Dashboard 2](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%202.jpg)
 ___
 All files are my original work; sharing is not permitted.
