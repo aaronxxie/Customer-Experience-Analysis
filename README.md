@@ -35,10 +35,10 @@ ___
 ___
 # Files
 
-* [Main Project File.ipynb](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Main%20Project%20File.ipynb) Main project file
-* [Dashboard 1.jpg](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%201.jpg)
-* [Dashboard 2.jpg](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%202.jpg)
-* [Dashboard File.pbix](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%20File.pbix) Power BI File
+* [Main_File.ipynb](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Main_File.ipynb) Main project file
+* [Dashboard_1.jpg](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard_1.jpg)
+* [Dashboard_2.jpg](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard_2.jpg)
+* [Dashboard_File.pbix](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard_File.pbix) Power BI File
 ___
 # Table of Contents
 * The Problem
@@ -60,7 +60,7 @@ ___
 * Action Suggestions
 ___
 # Dashboards
-![Dashboard 1](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%201.jpg)
-![Dashboard 2](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard%202.jpg)
+![Dashboard 1](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard_1.jpg)
+![Dashboard 2](https://github.com/aaronxxie/Customer-Experience-Analysis/blob/main/Dashboard_2.jpg)
 ___
 All files are my original work; sharing is not permitted.
