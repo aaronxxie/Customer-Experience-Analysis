@@ -5,7 +5,7 @@ ___
 # The Problem
 Customer rating is a crucial metric to show how satisfied customers are with a business. Therefore, this project examinates the relationship between customer rating and the shipping features. What are the potential drawbacks of the low customer ratings?
 
-## The Questions
+## Questions
 Shipping performance:
 * What are the total cost and shipping amount?
 * Which block/department has the highest shipping amount?
@@ -23,7 +23,7 @@ Customer experience:
 * Does more care call mean bad experience(bad ratings)?
 * Does high prior purchases mean good experience(good ratings)?
 
-## The Goal
+## Goals
 * Find the drawbacks that the business can improve to increase customer ratings.
 * Make strategies to overcome these drawbacks and raise the customer ratings by 20%
 ___
